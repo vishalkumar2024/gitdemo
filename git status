@@ -1,0 +1,55 @@
+[33mcommit 1b81aaa18bb4e8174d78dbb8707d5fb8feacbf58[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: kumar-vishalsoni <gamervishal2222@gmail.com>
+Date:   Sun Dec 22 11:28:31 2024 +0530
+
+    add some features
+
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/contact.html b/contact.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d01f779[m
+[1m--- /dev/null[m
+[1m+++ b/contact.html[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/monument.html b/monument.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 966a99ce935fc0d190016ecf37724e348d268d3e[m
+Author: kumar-vishalsoni <gamervishal2222@gmail.com>
+Date:   Sun Dec 22 11:18:10 2024 +0530
+
+    initial commit
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9083243[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Git </title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
